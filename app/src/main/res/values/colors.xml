@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange_200">#FFFFBD45</color>
+    <color name="orange_500">#FFFB8C00</color>
+    <color name="orange_700">#FFC25E00</color>
+    <color name="light_gray_200">#FFC8C8C8</color>
+    <color name="dark_gray_500">#FF333333</color>
+    <color name="black">#FF151515</color>
+    <color name="white">#FFFBFBFB</color>
+
+    <color name="lightGray">#FFE6E6E6</color>
+    <color name="darkGray">#FF4B4B4B</color>
+
+    <color name="dark_gray_stroke">#FF323232</color>
+    <color name="light_gray_stroke">#FFD8D8D8</color>
+
+    <color name="red">#FF4646</color>
+    <color name="yellow">#FFC114</color>
+    <color name="green">#00C980</color>
+</resources>
