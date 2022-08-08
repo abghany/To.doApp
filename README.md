@@ -1,5 +1,5 @@
 # To.do List App
-A simple demo project based on  MVVM clean architecture. This project following principle of single activity and multiple fragments.
+A simple demo project based on  MVVM clean architecture. This project also following principle of single activity and multiple fragments.
 
 ## Preview
 soon
