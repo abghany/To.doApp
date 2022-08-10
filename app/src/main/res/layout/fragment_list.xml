@@ -38,7 +38,7 @@
             android:clickable="true"
             android:focusable="true"
             android:navigateToAddFragment="@{true}"
-            android:src="@drawable/ic_add"
+            android:src="@drawable/ic_note_add"
             android:tint="@color/white"
             android:contentDescription="@string/content_desc_add_button"
             app:layout_constraintBottom_toBottomOf="@id/recyclerView"

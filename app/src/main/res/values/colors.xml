@@ -3,9 +3,9 @@
     <color name="orange_200">#FFFFBD45</color>
     <color name="orange_500">#FFFB8C00</color>
     <color name="orange_700">#FFC25E00</color>
-    <color name="light_gray_200">#FFC8C8C8</color>
+    <color name="light_gray_200">#FFE4E4E4</color>
     <color name="dark_gray_500">#FF333333</color>
-    <color name="black">#FF151515</color>
+    <color name="black">#FF101010</color>
     <color name="white">#FFFBFBFB</color>
 
     <color name="lightGray">#FFE6E6E6</color>
