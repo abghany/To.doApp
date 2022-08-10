@@ -2,7 +2,7 @@
 A simple demo project based on  MVVM clean architecture. This project also following principle of single activity and multiple fragments.
 
 ## Preview
-soon
+![To do App](https://user-images.githubusercontent.com/73926625/183826455-776f2e5b-136e-4c63-93f2-2b92f341edec.png)
 
 ## Tech Stack
 - Minimum SDK 26
